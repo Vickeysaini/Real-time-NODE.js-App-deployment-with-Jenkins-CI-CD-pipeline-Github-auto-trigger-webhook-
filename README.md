@@ -1,4 +1,4 @@
-# Deployment of end-to-end application in node.js using Jenkins CICD with GitHub Integration
+# Real-time NODE.js App deployment with Jenkins CI CD pipeline|Github auto trigger webhook 
 
 ---
 
@@ -44,10 +44,6 @@ Select **t2.micro** as Instance type and create new key pair to connect to the s
 Enter **key pair name** and select **RSA** as Key pair type and **.pem** as Private key file format. Then, click **Create key pair**
 ![7](https://user-images.githubusercontent.com/102405945/211756153-68eb2114-beb3-437c-b7e9-702d32c936fb.png)
 R
-# Real-time NODE.js App deployment with Jenkins CI CD pipeline|Github auto trigger webhook 
-
-
-
 
 
 ## Step 1: Install NodeJS and NPM using nvm
